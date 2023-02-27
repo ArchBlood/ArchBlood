@@ -14,7 +14,7 @@ Hello there, here's a few things to know about me:
 
 [![ArchBlood's Top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchBlood&langs_count=8&layout=compact&theme=dark)](https://github.com/ArchBlood)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=archblood&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=archblood&theme=onedark)](https://github.com/ArchBlood)
 
 ### Donations
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A412O3P)
